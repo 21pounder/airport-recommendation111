@@ -30,29 +30,31 @@
 
 <a id="flybit"></a>
 
-### 1. 🚀 Flybit机场｜15元IEPL，先试用再下单
+## 1. 🚀 Flybit机场
+
+> **15元IEPL，先试用再下单**
 
 **想用较低预算选到IEPL专线，可以先看 Flybit。** 月付15元包含128GB流量，套餐标注不限设备，同时还有一次性不限时流量包，日常主用和偶尔备用都能选。
 
 <p>
-<a href="https://www.fastfastfast.best/#/register?code=0clljXHZ" style="display:inline-block;padding:17px 26px;border-radius:16px;background:linear-gradient(135deg,#7c3aed,#2563eb);color:#ffffff;text-decoration:none;font-size:17px;font-weight:700;line-height:1.5;box-shadow:0 8px 22px #7c3aed33;border:1px solid #ffffff26;"><strong>🚀 注册 Flybit · 免费试用2GB →</strong></a>
+<a href="https://www.fastfastfast.best/#/register?code=0clljXHZ"><img src="https://img.shields.io/badge/Flybit-%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8%202GB%20%E2%86%92-7C3AED?style=for-the-badge&amp;labelColor=24134B" alt="🚀 注册 Flybit · 免费试用2GB →" height="42" /></a>
 </p>
 
-🎁 **新用户可免费试用2GB流量。** 注册后先导入订阅，试试常用节点、手机和电脑，再看看晚高峰体验。觉得好用，再下单。
+> [!TIP]
+> 🎁 **新用户可免费试用2GB流量。** 注册后先导入订阅，试试常用节点、手机和电脑，再看看晚高峰体验。觉得好用，再下单。
+>
 
-🏷️ **购买时输入优惠码 `flybit`，可享9折。** 15元月付档按九折计算为 **13.5元/月**；活动是否开放、优惠适用范围和最终金额以结算页面为准。
-
-#### 📊 已有资料指标
+### 📊 已有资料指标
 
 | ◉ 30天可用率 | ⏱️ 平均延迟 | ◇ 丢包率 | 🗓️ 监测周期 | ● 资料状态 |
 |:---:|:---:|:---:|:---:|:---:|
 | **100%** | **38.9 ms** | **0%** | **30天** | **稳定** |
 
-#### 👥 适合人群
+### 👥 适合人群
 
 希望低价使用IEPL专线、需要多设备连接的日常用户；使用频率不固定、想买不限时流量作备用的人。
 
-#### 💳 详细价格列表
+### 💳 详细价格列表
 
 | 套餐 | 价格与计费周期 | 流量额度 | 设备 / 连接限制 | 线路与规则（资料标注） |
 |---|---:|---|---|---|
@@ -71,27 +73,30 @@
 
 <a id="cocoduck"></a>
 
-### 2. 🦆 CocoDuck机场｜高端配置，先免费体验
+## 2. 🦆 CocoDuck机场
+
+> **高端配置，先免费体验**
 
 **想比较高端配置、家宽落地和多设备体验，可以试试 CocoDuck。** 现有资料主打海外团队、BGP中转与家宽落地，常规套餐标注全部节点可用、不限连接速度和设备数量，月付17元起。
 
 <p>
-<a href="https://www.cocoduck.site/auth/register?code=e2c254b876" style="display:inline-block;padding:17px 26px;border-radius:16px;background:linear-gradient(135deg,#0f766e,#0891b2);color:#ffffff;text-decoration:none;font-size:17px;font-weight:700;line-height:1.5;box-shadow:0 8px 22px #0f766e33;border:1px solid #ffffff26;"><strong>🦆 注册 CocoDuck · 查看免费试用 →</strong></a>
+<a href="https://www.cocoduck.site/auth/register?code=e2c254b876"><img src="https://img.shields.io/badge/CocoDuck-%E6%B3%A8%E5%86%8C%E9%A2%86%E5%8F%96%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8%20%E2%86%92-0891B2?style=for-the-badge&amp;labelColor=083344" alt="🦆 注册 CocoDuck · 查看免费试用 →" height="42" /></a>
 </p>
 
-🎁 **有免费试用，觉得好用再下单。** 已有资料提及 **1天、2GB流量**，注册后先确认当前领取方式，再测试自己的网络和常用应用；试用是否开放以会员中心为准。
+> [!TIP]
+> 🎁 **有免费试用，觉得好用再下单。** 已有资料提及 **1天、2GB流量**，注册后先确认当前领取方式，再测试自己的网络和常用应用；试用是否开放以会员中心为准。
 
-#### 📊 已有资料指标
+### 📊 已有资料指标
 
 | ◉ 45天可用率 | ⏱️ 平均延迟 | ◇ 丢包率 | 🗓️ 监测周期 | ● 资料状态 |
 |:---:|:---:|:---:|:---:|:---:|
 | **100%** | **38.6 ms** | **0%** | **45天** | **稳定** |
 
-#### 👥 适合人群
+### 👥 适合人群
 
 关注高端配置、家宽落地、AI与流媒体支持的用户；需要手机、电脑等多设备使用，且愿意先试用再购买的人。
 
-#### 💳 详细价格列表
+### 💳 详细价格列表
 
 | 套餐 | 价格与计费周期 | 流量额度 | 设备 / 连接限制 | 线路与规则（资料标注） |
 |---|---:|---|---|---|
@@ -111,29 +116,32 @@
 
 <a id="xingchen-cloud"></a>
 
-### 3. 🌟 星辰云（星辰机场）｜8元起，便宜量大
+## 3. 🌟 星辰云（星辰机场）
+
+> **8元起，便宜量大**
 
 **星辰云适合先看预算和流量：最低8元/月，含80GB。** 日常使用更推荐 **9.9元/月、100GB的入门版**；预算能到17元，则重点看 **17元/月、200GB的标准版**，资料标注有IEPL专线、原生IP和家宽IP。
 
 <p>
-<a href="https://c.kilxs.cn/?code=85pRyW98" style="display:inline-block;padding:17px 26px;border-radius:16px;background:linear-gradient(135deg,#c2410c,#ea580c);color:#ffffff;text-decoration:none;font-size:17px;font-weight:700;line-height:1.5;box-shadow:0 8px 22px #c2410c33;border:1px solid #ffffff26;"><strong>🌟 注册星辰云 · 查看9.9元 / 17元套餐 →</strong></a>
+<a href="https://c.kilxs.cn/?code=85pRyW98"><img src="https://img.shields.io/badge/%E6%98%9F%E8%BE%B0%E4%BA%91-%E6%9F%A5%E7%9C%8B%209.9%E5%85%83%20%2F%2017%E5%85%83%E5%A5%97%E9%A4%90%20%E2%86%92-EA580C?style=for-the-badge&amp;labelColor=431407" alt="🌟 注册星辰云 · 查看9.9元 / 17元套餐 →" height="42" /></a>
 </p>
 
-- 💰 **9.9元/月入门版：** 100GB/月，不限设备，适合低预算日常使用。
-- 🚀 **17元/月标准版：** 200GB/月，IEPL专线，适合希望兼顾流量与线路配置的用户。
-- 🪙 **8元/月初级版：** 80GB/月，仅限2台设备，资料标注不提供客服支持，也不含高端专线。
+> [!TIP]
+> - 💰 **9.9元/月入门版：** 100GB/月，不限设备，适合低预算日常使用。
+> - 🚀 **17元/月标准版：** 200GB/月，IEPL专线，适合希望兼顾流量与线路配置的用户。
+> - 🪙 **8元/月初级版：** 80GB/月，仅限2台设备，资料标注不提供客服支持，也不含高端专线。
 
-#### 📊 已有资料指标
+### 📊 已有资料指标
 
 | ◉ 45天可用率 | ⏱️ 平均延迟 | ◇ 丢包率 | 🗓️ 监测周期 | ● 资料状态 |
 |:---:|:---:|:---:|:---:|:---:|
 | **100.0%** | **40.5 ms** | **0%** | **45天** | **稳定** |
 
-#### 👥 适合人群
+### 👥 适合人群
 
 月费希望控制在10元左右、又需要较多流量的用户；预算17元、希望比较IEPL与家宽IP配置的人。
 
-#### 💳 详细价格列表
+### 💳 详细价格列表
 
 | 套餐 | 价格与计费周期 | 流量额度 | 设备 / 连接限制 | 线路与规则（资料标注） |
 |---|---:|---|---|---|
@@ -156,27 +164,30 @@
 
 <a id="wgetcloud"></a>
 
-### 4. 👑 WgetCloud｜老牌高端，预算充足再选
+## 4. 👑 WgetCloud
+
+> **老牌高端，预算充足再选**
 
 **偏好老牌服务、愿意为高端专线配置多留预算，可以比较 WgetCloud。** 现有资料主打IEPL/IPLC专线，精品档覆盖全球29个节点。个人套餐能按月购买，99元/月起，价格明显高于前面几家。
 
 <p>
-<a href="https://invite.wgetcloud.ltd/auth/register?code=fZ0Rsm" style="display:inline-block;padding:17px 26px;border-radius:16px;background:linear-gradient(135deg,#9a3412,#b45309);color:#ffffff;text-decoration:none;font-size:17px;font-weight:700;line-height:1.5;box-shadow:0 8px 22px #9a341233;border:1px solid #ffffff26;"><strong>👑 注册 WgetCloud · 查看新用户优惠 →</strong></a>
+<a href="https://invite.wgetcloud.ltd/auth/register?code=fZ0Rsm"><img src="https://img.shields.io/badge/WgetCloud-%E6%B3%A8%E5%86%8C%E6%9F%A5%E7%9C%8B%E6%96%B0%E7%94%A8%E6%88%B7%E4%BC%98%E6%83%A0%20%E2%86%92-B45309?style=for-the-badge&amp;labelColor=451A03" alt="👑 注册 WgetCloud · 查看新用户优惠 →" height="42" /></a>
 </p>
 
-🏷️ 现有资料标注 **新用户85折**，具体适用套餐和金额以结算页面为准。注册或首次登录可能需要设置 **2FA双重验证**，记得保存恢复信息。
+> [!NOTE]
+> 🏷️ 现有资料标注 **新用户85折**，具体适用套餐和金额以结算页面为准。注册或首次登录可能需要设置 **2FA双重验证**，记得保存恢复信息。
 
-#### 📊 已有资料指标
+### 📊 已有资料指标
 
 | ◉ 60天可用率 | ⏱️ 平均延迟 | ◇ 丢包率 | 🗓️ 监测周期 | ● 资料状态 |
 |:---:|:---:|:---:|:---:|:---:|
 | **100%** | **36.5 ms** | **0%** | **60天** | **稳定** |
 
-#### 👥 适合人群
+### 👥 适合人群
 
 预算较充足、看重老牌运营和高端专线配置的用户；需要更多节点覆盖，愿意按自己的网络验证后再长期使用的人。
 
-#### 💳 详细价格列表
+### 💳 详细价格列表
 
 | 套餐 | 价格与计费周期 | 流量额度 | 设备 / 连接限制 | 线路与规则（资料标注） |
 |---|---:|---|---|---|
@@ -192,27 +203,30 @@
 
 <a id="xunda-vpn"></a>
 
-### 5. ⚡ 迅达｜月付与不限时都有，多客户端可选
+## 5. ⚡ 迅达
+
+> **月付与不限时都有，多客户端可选**
 
 **迅达适合希望在月付和不限时流量之间灵活选择的用户。** 基础套15元/月含150GB，支持5台设备同时使用；更高档提供BGP或企业级跨境专线资料，并支持Clash、Shadowrocket、Stash、Surge等常见客户端。
 
 <p>
-<a href="https://sulianproxy.com/register?code=OmenSc0K" style="display:inline-block;padding:17px 26px;border-radius:16px;background:linear-gradient(135deg,#b45309,#d97706);color:#ffffff;text-decoration:none;font-size:17px;font-weight:700;line-height:1.5;box-shadow:0 8px 22px #b4530933;border:1px solid #ffffff26;"><strong>⚡ 注册迅达 · 查看月付与流量包 →</strong></a>
+<a href="https://sulianproxy.com/register?code=OmenSc0K"><img src="https://img.shields.io/badge/%E8%BF%85%E8%BE%BE-%E6%9F%A5%E7%9C%8B%E6%9C%88%E4%BB%98%E4%B8%8E%E4%B8%8D%E9%99%90%E6%97%B6%E5%A5%97%E9%A4%90%20%E2%86%92-D97706?style=for-the-badge&amp;labelColor=422006" alt="⚡ 注册迅达 · 查看月付与流量包 →" height="42" /></a>
 </p>
 
-📬 购买页标注 **7×24小时工单支持**。线路权限和设备数量随套餐档位变化，建议先用月付档确认本地网络表现。
+> [!NOTE]
+> 📬 购买页标注 **7×24小时工单支持**。线路权限和设备数量随套餐档位变化，建议先用月付档确认本地网络表现。
 
-#### 📊 已有资料指标
+### 📊 已有资料指标
 
 | ◉ 30天可用率 | ⏱️ 平均延迟 | ◇ 丢包率 | 🗓️ 监测周期 | ● 资料状态 |
 |:---:|:---:|:---:|:---:|:---:|
 | **100%** | **44.2 ms** | **0%** | **30天** | **稳定** |
 
-#### 👥 适合人群
+### 👥 适合人群
 
 需要多种客户端支持、流量需求在150GB至600GB之间的日常用户；偶尔使用、想买300GB或1200GB不限时流量作备用的人。
 
-#### 💳 详细价格列表
+### 💳 详细价格列表
 
 | 套餐 | 价格与计费周期 | 流量额度 | 设备 / 连接限制 | 线路与规则（资料标注） |
 |---|---:|---|---|---|
@@ -228,27 +242,30 @@
 
 <a id="mojie"></a>
 
-### 6. 📦 魔戒机场｜19.9元130GB，按量用完再续
+## 6. 📦 魔戒机场
+
+> **19.9元130GB，按量用完再续**
 
 **不想每个月续费，或者只需要一个备用，可以看看魔戒的按量流量包。** 常规套餐从 **19.9元/次、130GB** 起，页面标注不限到期时间、无节点倍率、不限设备数量，买到的是总流量额度。
 
 <p>
-<a href="https://74.82.196.10:8000/register?aff=edcgk25C" style="display:inline-block;padding:17px 26px;border-radius:16px;background:linear-gradient(135deg,#be123c,#e11d48);color:#ffffff;text-decoration:none;font-size:17px;font-weight:700;line-height:1.5;box-shadow:0 8px 22px #be123c33;border:1px solid #ffffff26;"><strong>📦 注册魔戒 · 19.9元起购买不限时流量 →</strong></a>
+<a href="https://74.82.196.10:8000/register?aff=edcgk25C"><img src="https://img.shields.io/badge/%E9%AD%94%E6%88%92-19.9%E5%85%83%E8%B4%AD%E4%B9%B0%20130GB%20%E2%86%92-E11D48?style=for-the-badge&amp;labelColor=4C0519" alt="📦 注册魔戒 · 19.9元起购买不限时流量 →" height="42" /></a>
 </p>
 
-🧳 适合偶尔使用、出差备用、每月用量变化较大的情况。常规包最低为19.9元，另有1元1GB体验包；体验包不可续费，不能把它当作常规套餐起价。
+> [!NOTE]
+> 🧳 适合偶尔使用、出差备用、每月用量变化较大的情况。常规包最低为19.9元，另有1元1GB体验包；体验包不可续费，不能把它当作常规套餐起价。
 
-#### 📊 已有资料指标
+### 📊 已有资料指标
 
 | ◉ 30天可用率 | ⏱️ 平均延迟 | ◇ 丢包率 | 🗓️ 监测周期 | ● 资料状态 |
 |:---:|:---:|:---:|:---:|:---:|
 | **100%** | **41.5 ms** | **0%** | **30天** | **稳定** |
 
-#### 👥 适合人群
+### 👥 适合人群
 
 使用频率低、希望流量慢慢用的用户；需要备用流量，或者不希望固定按月续费的人。
 
-#### 💳 详细价格列表
+### 💳 详细价格列表
 
 | 套餐 | 价格与计费周期 | 流量额度 | 设备 / 连接限制 | 线路与规则（资料标注） |
 |---|---:|---|---|---|
